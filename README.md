@@ -1,0 +1,1 @@
+# assignment-part-A-IBM-Cognos-Analytics
